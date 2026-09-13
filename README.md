@@ -13,4 +13,4 @@ I'm currently working on four core tools that I plan to build my career around:
   
 ## What I'm Working On
 
-I'm building real projects using these tools to practice turning raw data into useful insights  from cleaning datasets to building dashboards that tell a clear story. My goal is to become a strong, well-rounded data analyst by the time I graduate.
+I'm building real projects using these tools to practice turning raw data into useful insights from cleaning datasets to building dashboards that tell a clear story. My goal is to become a strong, well-rounded data analyst by the time I graduate.
